@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, Thomas Frade here!
+I'm currently a bachelor under Universidade de São Paulo, studying Applied and Computational Math.
 
-<!--
-**Thomfradeh/Thomfradeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring to be in a position of leadership one day, i'm building my own skillset piece by piece, and everything i've done so far can be found linked over here!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on study-cases 
+- 🌱 I’m currently learning MatPlotLib and Pandas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Thomfradeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomas-machado-frade-355104214/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomfradeh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomfradeh&show_icons=true)  
