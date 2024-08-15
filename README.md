@@ -1,4 +1,4 @@
-# Hi there 👋, Thomas Frade here!
+# Hello, I'm Namienn
 I'm currently a bachelor under Universidade de São Paulo, studying Applied and Computational Math.
 
 Aspiring to be in a position of leadership one day, i'm building my own skillset piece by piece, and everything i've done so far can be found linked over here!
